@@ -1,0 +1,12 @@
+{
+  "name": "wysiwyg",
+  "version": "0.1",
+  "homepage": "https://github.com/daprime-com/wysiwyg",
+  "authors": [
+    "Igor Murujev <igor@daprime.com>"
+  ],
+  "description": "Angular",
+  "keywords": [
+    "angular", "redactor"
+  ]
+}
